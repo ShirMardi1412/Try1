@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-           
+           // שיר המלכה
 
             Console.WriteLine("Hello, World!");
         }
